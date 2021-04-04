@@ -8,7 +8,7 @@ function ResultList(props) {
               <tr>
                   <th>Firstname</th>
                   <th>Lastname</th>
-                  <th>Employeerole</th>
+                  <th>Occupation</th>
               </tr>
               <tr>
               <td>max</td>
