@@ -2,7 +2,9 @@ import React from "react";
 
 function SearchForm(props) {
   return (
+
     <form>
+        {console.log('props in searchForm', props)}
       <div className="form-group">
         <label htmlFor="search">Search:</label>
         <input
